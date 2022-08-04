@@ -16,8 +16,10 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mohammad-esmaeilirad-778935168/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mohammad-esmaeilirad-778935168/#gh-dark-mode-only)
 &nbsp;&nbsp;
-<a href="https://www.flaticon.com/free-icons/medium#gh-light-mode-only" title="medium icons"></a>
-<a href="https://www.flaticon.com/free-icons/medium#gh-dark-mode-only" title="medium icons"></a>
+[<a href="https://www.flaticon.com/free-icons/medium" title="medium icons"></a>]
+
+<!-- [<a href="https://www.flaticon.com/free-icons/medium" title="medium icons"></a>] -->
+
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/m2.rads/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/m2.rads/#gh-dark-mode-only)
