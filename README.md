@@ -16,7 +16,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mohammad-esmaeilirad-778935168/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mohammad-esmaeilirad-778935168/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/medium-light.svg)](https://medium.com/@mohammadrad#gh-light-mode-only)
+[![website](./img/medium-logo.svg)](https://medium.com/@mohammadrad#gh-light-mode-only)
 [![website](./img/medium-logo.svg)](https://medium.com/@mohammadrad#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/m2.rads/#gh-light-mode-only)
