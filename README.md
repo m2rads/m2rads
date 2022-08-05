@@ -1,6 +1,6 @@
-## Hi There I am Mohammad - aka [m2rads][website] 👋
+# Hi There I am Mohammad - aka [m2rads][website] 👋
 
-### I'm a student, developer and a tech enthusiast 🥊
+## I'm a student, developer and a tech enthusiast 🥊
 
 - Checkout my react annotation library [accessnotes-annotator][accessnotes] 🔭
 - I'm currently working on a blockchain Supply Chain app 🫒
@@ -26,16 +26,16 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />          
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://www.flaticon.com/free-icons/coding" />
-<img align="left" alt="Python" width="26px" src="https://www.flaticon.com/free-icons/python" />
-<img align="left" alt="Java" width="26px" src="https://www.flaticon.com/free-icons/java" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://mohammadrad.herokuapp.com#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://mohammadrad.herokuapp.com#gh-dark-mode-only)
 
 <br />
 <br />
