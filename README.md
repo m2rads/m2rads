@@ -39,4 +39,4 @@
 <br />
 
 [website]: https://mohammadrad.herokuapp.com
-[annotator]: https://github.com/m2rads/access-annotator
+[annotator]: https://github.com/m2rads/react-annotator
