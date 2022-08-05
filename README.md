@@ -2,7 +2,7 @@
 
 ## I'm a student, developer and a tech enthusiast 🥊
 
-- Checkout my react annotation library [accessnotes-annotator][accessnotes] 🔭
+- Checkout my react annotation library [react-annotator][annotator] 🔭
 - I'm currently working on a blockchain Supply Chain app 🫒
 - My favourite programming Language is C++ 👨‍💻
 - I'm currently learning about Bike Restoration 🤣
@@ -39,4 +39,4 @@
 <br />
 
 [website]: https://mohammadrad.herokuapp.com
-[accessnotes]: https://github.com/m2rads/access-annotator
+[annotator]: https://github.com/m2rads/access-annotator
