@@ -4,7 +4,7 @@
 
 - Checkout my react annotation library [react-rangy-highlighter][annotator] 🔭
 - I'm currently working on a blockchain Supply Chain app 🫒
-- My favourite programming Language is C++ 👨‍💻
+- My favourite programming language is Javascript 👨‍💻
 - I'm currently learning about Bike Restoration 🤣
 - 2022 Goal: Get my Private Pilot License 🥅
 
