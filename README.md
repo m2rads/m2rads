@@ -3,10 +3,10 @@
 ## I'm a student, developer and a tech enthusiast 🥊
 
 - Checkout my react annotation library [react-rangy-highlighter][annotator] 🔭
-- I'm currently working on a blockchain Supply Chain app 🫒
+- I'm currently working on a Sync Youtube player web app 🫒
 - My favourite programming language is Javascript 👨‍💻
 - I'm currently learning about Bike Restoration 🤣
-- 2022 Goal: Get my Private Pilot License 🥅
+- 2022 Goal: Getting my Network+ certification 🥅
 
 ## Connect With Me:
 
