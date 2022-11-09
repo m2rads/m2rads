@@ -2,7 +2,7 @@
 
 ## I'm a student, developer and a tech enthusiast 🥊
 
-- Checkout my react annotation library [react-rangy-highlighter][annotator] 🔭
+- Checkout my Chrome Annotation Extension [AccessNotes][AccessNotes] 🔭
 - I'm currently working on a Sync Youtube player web app 🫒
 - My favourite programming language is Javascript 👨‍💻
 - I'm currently learning about Bike Restoration 🤣
