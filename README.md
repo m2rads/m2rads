@@ -6,7 +6,7 @@
 - I'm currently working on a Sync Youtube player web app 🫒
 - My favourite programming language is Javascript 👨‍💻
 - I'm currently learning about Bike Restoration 🤣
-- 2022 Goal: Getting my Network+ certification 🥅
+- 2022 Goal: Competing in more Hackathons 🥅
 
 ## Connect With Me:
 
