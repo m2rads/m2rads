@@ -4,7 +4,7 @@
 
 - Checkout my Chrome Annotation Extension [AccessNotes][AccessNotes] 🔭
 - I'm currently working on a Sync Youtube player web app 🫒
-- My favourite programming language is Javascript 👨‍💻
+- My favourite programming framework is SwiftUI 👨‍💻
 - I'm currently learning about Bike Restoration 🤣
 - 2022 Goal: Competing in more Hackathons 🥅
 
