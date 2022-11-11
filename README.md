@@ -3,7 +3,7 @@
 ## I'm a student, developer and a tech enthusiast 🥊
 
 - Checkout my Chrome Annotation Extension [AccessNotes][AccessNotes] 🔭
-- I'm currently working on a shipment delivery optimzation app for IOS 🫒
+- I'm currently working on a shipment delivery optimzation app for IOS 💻
 - My favourite programming framework is SwiftUI 👨‍💻
 - I'm currently learning about Bike Restoration 🤣
 - 2022 Goal: Competing in more Hackathons 🥅
