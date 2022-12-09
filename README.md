@@ -4,9 +4,6 @@
 
 - Checkout my Chrome Annotation Extension [AccessNotes][AccessNotes] ♫
 - I'm currently working on a shipment delivery optimzation app for IOS 💻
-- My favourite programming framework is React 👨‍💻
-- I'm currently learning about Bike Restoration 🤣
-- 2022 Goal: Competing in more Hackathons 🥅
 
 ## Connect With Me:
 
