@@ -1,4 +1,4 @@
-# Hi There I am Mohammad - aka [m2rads][website] 👋
+# Hi There I am Mohammad - Visit my website [m2rads][website] 👋
 
 ## I'm a student, developer and a tech enthusiast 🥊
 
@@ -35,5 +35,5 @@
 <br />
 <br />
 
-[website]: https://mohammadrad.herokuapp.com
+[website]: https://m2rads.github.io/mohammadrad/
 [AccessNotes]: https://github.com/m2rads/accessnotes
