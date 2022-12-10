@@ -1,4 +1,4 @@
-# Hi There I am Mohammad - Visit my website [m2rads][website] 👋
+# Hi there I am Mohammad - visit my website [m2rads][website] 👋
 
 ## I'm a student, developer and a tech enthusiast 🥊
 
